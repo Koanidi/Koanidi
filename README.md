@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koanidi
 - 👀 I’m interested in FreeGemsBrawlStars
 - 🌱 I’m currently learning html, css, c#
-- 💞️ I’m looking to collaborate on KirillFreeGems
+- 💞️ I’m to collaborate on KirillFreeGems
 - 📫 How to reach me ...
 
 <!---
