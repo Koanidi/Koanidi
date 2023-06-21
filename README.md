@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Koanidi
-- 👀 I’m interested in FreeGemsBrawlStars
-- 🌱 I’m currently learning html, css, c#
-- 💞️ I’m collaborate on KirillFreeGems
-- 📫 How to reach me ...
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning java
 
 <!---
 Koanidi/Koanidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
