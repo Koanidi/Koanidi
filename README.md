@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koanidi
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning java
+- 👀 I’m interested in gamedev, tg bots
+- 🌱 I’m currently learning aiogram
 
 <!---
 Koanidi/Koanidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
